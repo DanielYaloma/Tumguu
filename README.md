@@ -1,5 +1,5 @@
 # Описание проекта
 
 Это для списка продуктов:
- [Spisok Produktov](google.com)
+[Spisok Produktov](google.com)
  
